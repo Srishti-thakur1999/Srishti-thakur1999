@@ -20,6 +20,9 @@
     <a href="mailto:srishtithakur313@gmail.com">
       <img src="https://img.shields.io/badge/Email-srishtithakur313%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    <a href="https://linkedin.com">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
     <a href="https://github.com/Srishti-thakur1999">
       <img src="https://img.shields.io/badge/GitHub-Srishti--thakur1999-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
     </a>
@@ -49,19 +52,29 @@ I am a product-focused **Mobile & Desktop Software Engineer** with extensive exp
       <div align="center">
         <h3>📖 Virtual Book Reader</h3>
         <p><strong>Next-Gen Lightweight Desktop Reader</strong></p>
+        <p>
+          <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
+          <img src="https://img.shields.io/badge/Rust-black?style=flat-square&logo=rust&logoColor=white" />
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        </p>
       </div>
       <p>Architected a blazingly fast, native desktop digital book reader using <strong>Tauri & Rust</strong> for reading encrypted tax & legal publications.</p>
       
   **Key Contributions:**
-  - 🦀 **Tauri + Rust Engine:** Built a native, memory-efficient desktop runtime (<40MB memory footprint vs 400MB+ in traditional Electron apps).
-  - 🔒 **Encrypted DRM & Offline Cache:** Implemented secure local content storage and decryption protocols for copyrighted legal manuscripts.
-  - 🔍 **Interactive Reading Tools:** Built lightning-fast full-text indexing, multi-color highlighting, annotations, and bookmark synchronization.
-  - 🎨 **Responsive Canvas/Viewer:** Engineered smooth page-turn animations, adaptive zoom levels, and dark/light reading modes.
+  - 🦀 **Tauri + Rust Engine:** Native, memory-efficient runtime (<40MB footprint vs 400MB+ in Electron).
+  - 🔒 **Encrypted DRM & Offline Cache:** Secure local content storage and decryption for copyrighted manuscripts.
+  - 🔍 **Interactive Reading Tools:** Instant full-text search, multi-color highlighting, annotations, and bookmarks.
+  - 🎨 **Responsive Canvas/Viewer:** Smooth page-turn animations, adaptive zoom, and dark/light modes.
 </td>
 <td width="33%" valign="top">
   <div align="center">
     <h3>🛒 Taxmann Store App</h3>
     <p><strong>E-Commerce & Digital Storefront</strong></p>
+    <p>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
+      <img src="https://img.shields.io/badge/E--Commerce-orange?style=flat-square" />
+    </p>
   </div>
   <p>Engineered core user journeys and transactions for India's premier tax and corporate law bookstore and subscription platform.</p>
   
@@ -74,13 +87,18 @@ I am a product-focused **Mobile & Desktop Software Engineer** with extensive exp
   <div align="center">
     <h3>⚖️ Centax Online App</h3>
     <p><strong>Legal Search & Intelligence Suite</strong></p>
+    <p>
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/LegalTech-005571?style=flat-square" />
+      <img src="https://img.shields.io/badge/Offline_Sync-success?style=flat-square" />
+    </p>
   </div>
   <p>Contributed to an enterprise legal research platform delivering fast search across circulars, acts, and judicial case laws.</p>
   
   **Key Contributions:**
-  - 🔍 **Sub-Second Legal Querying:** Integrated responsive multi-facet filtering to search complex statutory case laws in real time.
+  - 🔍 **Sub-Second Legal Querying:** Responsive multi-facet filtering to search complex statutory case laws in real time.
   - 📑 **Adaptive Document Viewer:** Structured custom viewing components for intricate statutory tables with zero layout shifts.
-  - 🛡️ **App Resilience:** Maintained a <strong>99.8%+ crash-free session rate</strong> through rigorous defensive programming.
+  - 🛡️ **App Resilience:** Maintained a <strong>99.8%+ crash-free session rate</strong> through defensive programming.
 </td>
   </tr>
 </table>
